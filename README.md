@@ -1,3 +1,5 @@
+## Algorithm Exercises Based on [ThePrimeagen](https://twitch.tv/ThePrimeagen) lessons
+
 ## Developed live on twitch
 [ThePrimeagen](https://twitch.tv/ThePrimeagen)
 
